@@ -1,4 +1,4 @@
 SogetiGitTraining
 =================
 
-A Repository used for training in the Des Moines Sogeti Unit 
+A Repository used for training in the Des Moines Sogeti Unit Hello this is Ethan
